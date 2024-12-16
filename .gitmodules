@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/simvad/simvad.github.io.git
+	branch = main
