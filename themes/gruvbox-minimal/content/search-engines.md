@@ -2,28 +2,14 @@
 title: "Esoteric Search Engines"
 draft: false
 ---
-# Understanding Modern Poetry
+The web was built for serendipity. Yet as the digital garden has become a shopping mall, those delightful moments of stumbling upon exactly what you needed (or didn't know you needed) are fading. Here, I've gathered a few search engines that still enable digital serendipity."
 
-The evolution of modern poetry has been marked by several significant movements[^1]. While traditional forms persisted, the early 20th century saw radical experimentation with form and content[^freetype]. This transformation wasn't limited to English-speaking countries[^2].
 
-## The Imagist Movement
+# Marginalia
+[search.marginalia.nu/](https://search.marginalia.nu/) is probably the entry on this list closest to a standard search engine, the big difference being the exclusion of commercial sites. This leads to search results consisting of passion rather than profit motive. This is not necessarily better or worse than e.g. Google, but the amount of passion projects a search with Marginalia turns up makes it worth it to make it part of your searching habits.  
 
-Imagism, led by Ezra Pound, emphasized precision and clarity[^3]. Their manifesto declared three key principles:
+# Wiby
+[wiby.me/](https://wiby.me/) is a similar concept to Marginalia described above. However, the amount of indexed sites seems to be lower, making it less ideal for strictly utilitarian queries. Instead, it functions wonderfully as a window into the early days of the internet. I especially enjoy querying it with things I love and seeing it return unexpected but assuredly related sites. Previous delightful queries include "Jorge Luis Borges", "Effcetive ALtruism" and "infrastructure". The "surprise me" button can also provide a fascinating evening all by itself.
 
-1. Direct treatment of the "thing"
-2. Use no word that does not contribute to the presentation
-3. Compose in the sequence of the musical phrase
-
-## Impact on Contemporary Writing
-
-The influence of these early modernist experiments continues today[^impact]. Many contemporary poets still wrestle with the tension between tradition and innovation.
-
-[^1]: The modernist movement officially began around 1910 with the emergence of Imagism, though its roots can be traced to the late 19th century Symbolist movement.
-
-[^freetype]: Free verse became increasingly common during this period, breaking from traditional meter and rhyme schemes.
-
-[^2]: French poetry, particularly through the work of Baudelaire and Rimbaud, had already begun pushing boundaries in the late 19th century.
-
-[^3]: Pound's famous statement "Make it new!" became a rallying cry for modernist poets.
-
-[^impact]: Contemporary poets like Anne Carson and Mary Ruefle continue to push boundaries while acknowledging their modernist predecessors.
+# Exa
+[exa.ai](https://exa.ai/search) is a relatively new but very well functioning semantic search engine. I have found it especailly useful as a way of recovering articles I remember reading but can't find by describing them in great detail. For similar reasons, it works well for finding writing in specific styles or describing specific feelings. Finally, there is a special delight in providing it with some of your favorite writing and letting the embeddings find similar stuff. 
