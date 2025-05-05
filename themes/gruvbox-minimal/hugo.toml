@@ -13,8 +13,8 @@ pageRef = '/about'
 weight = 20
 
 [[menus.main]]
-name = 'Hydrogen'
-pageRef = '/hydrogen'
+name = 'Mainframe'
+pageRef = '/mainframe'
 weight = 30
 
 [[menus.main]]
