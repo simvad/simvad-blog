@@ -16,4 +16,4 @@ The [Darwin Games Platform](https://github.com/simvad/DarwinGame) is an online p
 ## Interests
 - Effective Altruism and Progress Studies ([How do we boost the growth of poor countries?](https://www.goodreads.com/quotes/12434140-once-you-start-thinking-about-growth-it-s-hard-to-think))
 - Linux (How much can I mess around with my operating system, before using my PC becomes more frustrating than it's fun)
-- Backend development (How do we build [elegant and scalable](https://dataintensive.net/) backend solutions)
+
